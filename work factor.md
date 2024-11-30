@@ -1,8 +1,9 @@
 work factor
--CISSP Glossary
-  -This represents the time and effort required to break a cryptography system.
-  -ChatGPT : เวลาและความพยายามที่ต้องใช้ในการทำลายระบบการเข้ารหัสลับ (Cryptography System)
-  -Gemini : เวลาและทรัพยากรที่จำเป็นในการทำลายระบบการเข้ารหัส
+- CISSP Glossary
+  - This represents the time and effort required to break a cryptography system.
+  - 
+  - ChatGPT : เวลาและความพยายามที่ต้องใช้ในการทำลายระบบการเข้ารหัสลับ (Cryptography System)
+  - Gemini : เวลาและทรัพยากรที่จำเป็นในการทำลายระบบการเข้ารหัส
 
 -NIST
   -Estimate of the effort or time needed by a potential perpetrator, with specified expertise and resources, to overcome a protective measure.
