@@ -6,4 +6,4 @@
 
 ![mypro](img/e.jpg)
 
-[WORK FACTOR](work factor)
+![WORK FACTOR](work factor)
