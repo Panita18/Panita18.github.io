@@ -1,4 +1,4 @@
-# Panita18.github.io
+# Panita18
 
 - panita18
   - eve
