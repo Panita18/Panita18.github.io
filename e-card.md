@@ -2,4 +2,4 @@
 
 ใช้: <a href="https://stylesuxx.github.io/steganography/"> Steganography Online </a>
 
-![card](img/e-card.png)
+![card](img/e-card2.png)
