@@ -6,6 +6,4 @@
 
 ![mypro](img/e.jpg)
 
-https://panita18.github.io/e-card
 <a href="https://panita18.github.io/e-card"> Card Christmas </a>
-<a href="https://panita18.github.io/e-card"> Click </a>
