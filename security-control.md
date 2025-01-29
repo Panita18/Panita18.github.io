@@ -1,6 +1,7 @@
 # Security Control
 - ตาแมว
-- Location -> หอพัก
+- Location
+  - หอพัก
 - Type Of Security Controls
   - Physical Controls
 - Control Functions
